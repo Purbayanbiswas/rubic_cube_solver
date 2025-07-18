@@ -280,13 +280,3 @@ By applying this algorithm to a cube, you end up to the random state.
 
 Return an algorithm that solves the cube as a string. `maxDepth` is
 the maximum number of moves in the solution, and defaults to 22.
-
-
-## License
-
-**cube.js** is licensed under the [MIT License](http://opensource.org/licenses/MIT).
-
-## History
-
-**cube.js** was created by [Petri Lehtinen](http://www.digip.org/about/) aka [akheron](https://github.com/akheron).
-Thanks to him.
